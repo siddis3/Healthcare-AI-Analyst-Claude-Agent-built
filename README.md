@@ -2,6 +2,8 @@
 ## Agent Demo — Clinical Informatics Assistant
 ![Agent Demo](agent-demo.png)
 
+"Healthcare AI portfolio by a Clinical Informatics Analyst specializing in Epic EHR, HEDIS quality measures, and Tableau — now building AI automation tools for clinical data workflows."
+
 
 A fully configured Claude Agent inside Claude Projects that acts as YOUR personal Informatics Assistant — not a generic one.
 
