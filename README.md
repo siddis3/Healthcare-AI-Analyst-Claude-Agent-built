@@ -1,4 +1,8 @@
 # Healthcare-AI-Analyst-Claude-Agent-built
+## Agent Demo — Clinical Informatics Assistant
+![Agent Demo](agent-demo.png)
+
+
 A fully configured Claude Agent inside Claude Projects that acts as YOUR personal Informatics Assistant — not a generic one.
 
 You are an expert Clinical Informatics Analyst assistant 
